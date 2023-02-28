@@ -1,0 +1,12 @@
+
+# Eclipse project files (if you use Eclipse)
+.classpath
+.project
+
+# IntelliJ project files (if you use IntelliJ)
+.idea/
+*.iml
+
+# Maven Compiled Sources
+target/
+
