@@ -1,10 +1,18 @@
 # RHIT CSSE Template Maven Project
 
-This repository serves as a template for general Maven project strctures.
+## Contributors
+<YOUR_NAME>
+
+## Link to Engineering Notebook
+<YOUR_LINK>
+
+## :exclamation:_Students: Read and understand the following sections. You are required to use the specified versions and the build tool._:exclamation:
+
+## Configuration and Structure 
 
 This project is configured as follows:
 
-- **Java Version**: 11
+- **Java Version**: 11 
 - **JUnit Version**: 5.8.1
 - **Project Paths**
   - *Source Code Root*: `/src/main/java`
@@ -23,4 +31,4 @@ that perform the same operations as the IDE. The important ones are:
 - **Build Source**: "compile" (`mvn compile`)
 - **Run Tests**: "test" (`mvn test`)
 
-You can learn more about the Maven lifecycle by reading the [Maven in ]
+You can learn more about the Maven lifecycle by reading the [Introduction to the Build Lifecycle](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html).
