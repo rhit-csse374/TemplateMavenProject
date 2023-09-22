@@ -11,6 +11,7 @@ This project is configured as follows:
 
 - **Java Version**: 11 
 - **JUnit Version**: 5.8.1
+- **Mocking Library: EasyMock**: 5.1.0
 - **Project Paths**
   - *Source Code Root*: `/src/main/java`
   - *Non-Code Resources Root*: `/src/main/resources`
