@@ -3,9 +3,6 @@
 ## Contributors
 <YOUR_NAME>
 
-## Link to Engineering Notebook
-<YOUR_LINK>
-
 ## :exclamation:_Students: Read and understand the following sections. You are required to use the specified versions and the build tool._:exclamation:
 
 ## Configuration and Structure 
